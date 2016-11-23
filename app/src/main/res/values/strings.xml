@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pure Ticket</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="welcome">All Rights Reserved. © Pure i Consulting</string>
+
+    <string name="syncTime">Sync every</string>
+
+    <string name="authCodeSample">(Use \'SAMPLE\' for Demo)</string>
+
+
+    <string name="action_help">Help</string>
+    <string name="action_about">About</string>
+    <string name="WEBVIEW_URL_KEY">webview_url</string>
+    <string name="WEBVIEW_URL_HELP">file:///android_asset/help.html</string>
+    <string name="WEBVIEW_URL_ABOUT">file:///android_asset/about.html</string>
+
+</resources>
